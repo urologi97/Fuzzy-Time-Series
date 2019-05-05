@@ -1,0 +1,12 @@
+c:\users\yufsprops\source\repos\FuzzyTimeSeries\FuzzyTimeSeries\obj\Debug\FuzzyTimeSeries.csprojResolveAssemblyReference.cache
+c:\users\yufsprops\source\repos\FuzzyTimeSeries\FuzzyTimeSeries\obj\Debug\FuzzyTimeSeries.Form1.resources
+c:\users\yufsprops\source\repos\FuzzyTimeSeries\FuzzyTimeSeries\obj\Debug\FuzzyTimeSeries.Properties.Resources.resources
+c:\users\yufsprops\source\repos\FuzzyTimeSeries\FuzzyTimeSeries\obj\Debug\FuzzyTimeSeries.csproj.GenerateResource.Cache
+c:\users\yufsprops\source\repos\FuzzyTimeSeries\FuzzyTimeSeries\obj\Debug\FuzzyTimeSeries.csproj.CoreCompileInputs.cache
+c:\users\yufsprops\source\repos\FuzzyTimeSeries\FuzzyTimeSeries\bin\Debug\FuzzyTimeSeries.exe.config
+c:\users\yufsprops\source\repos\FuzzyTimeSeries\FuzzyTimeSeries\bin\Debug\FuzzyTimeSeries.exe
+c:\users\yufsprops\source\repos\FuzzyTimeSeries\FuzzyTimeSeries\bin\Debug\FuzzyTimeSeries.pdb
+c:\users\yufsprops\source\repos\FuzzyTimeSeries\FuzzyTimeSeries\obj\Debug\FuzzyTimeSeries.exe
+c:\users\yufsprops\source\repos\FuzzyTimeSeries\FuzzyTimeSeries\obj\Debug\FuzzyTimeSeries.pdb
+C:\Users\Yufsprops\source\repos\FuzzyTimeSeries\FuzzyTimeSeries\bin\Debug\MySql.Data.dll
+C:\Users\Yufsprops\source\repos\FuzzyTimeSeries\FuzzyTimeSeries\bin\Debug\MySql.Data.xml
